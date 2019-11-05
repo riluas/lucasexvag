@@ -1,1 +1,5 @@
- 
+ Realiza un vagrant up y luego un vagrant provision.
+
+Deberas cambiar el archivo hosts para que tener el dominio llamado www.lucasweb.com,
+para ello tendras que copiar el archivo hosts a la carpeta C:\tools\cygwin\etc
+
